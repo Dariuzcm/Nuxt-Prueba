@@ -39,8 +39,7 @@ export default {
   /*
   ** Nuxt.js modules
   */
-  modules: [
-  ],
+  modules: ["nuxt-compress"],
   /*
   ** Build configuration
   */
